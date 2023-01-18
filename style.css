@@ -12,21 +12,6 @@ ul li:hover {
 ul li:hover ul {
     display: block;
 }
-ul li ul {
-    position: absolute;
-    width: 200px;
-    display: none;
-}
-ul li ul li {
-    background: rgb(218, 218, 218);
-    display: block;
-}
-ul li ul li a {
-    display: block !important;
-}
-ul li ul li:hover {
-    background: rgb(218, 218, 218);
-}
 
 .card {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
